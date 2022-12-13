@@ -1,0 +1,28 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "IENSA",
+  "scripts": {
+    "iniciar": "nodemon ./connect.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  },
+  "main": "connect.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyAscencioLuyo/landing-page-iensa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShirleyAscencioLuyo/landing-page-iensa/issues"
+  },
+  "homepage": "https://github.com/ShirleyAscencioLuyo/landing-page-iensa#readme"
+}
